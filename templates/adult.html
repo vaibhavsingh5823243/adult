@@ -1,0 +1,95 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Search</title>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"  crossorigin="anonymous">
+	<style type="text/css">
+		body {background:  linear-gradient(to right, rgba(255,0,0,0.5), rgba(0,255,0,0.5));}
+		form{
+			background:  linear-gradient(to right, rgba(0,255,0,0.1), rgba(255,0,0,0.1));
+			padding: 20px;
+			margin-top: 70px;
+			border-radius: 30px;
+
+		}
+		label{
+			font-family: American Typewriter, serif ;
+		}
+		.form-control,.form-select{
+			color: #fff;
+			background-color: rgba(0, 0, 0, 0.2);
+			border-radius: 15px;
+		}
+		.btn{
+			border-radius: 15px;
+		}
+		.btn1{color:black;
+         background-color:green;
+         margin-left:600px;
+         margin-top:50px;
+         }
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div class="row form_style">
+			<div class="offset-md-2 col-md-8">
+
+				<form method="post" action="/predict/">
+				<div class="row g-2">
+					<h2 class="offset-md-2">Adult Census Income Prediction</h2>
+					<div class="col-sm-6">
+
+					    <label for="age">Age</label>
+						<input type="number" id="age" class="form-control" aria-label="City" value="" name="age">
+					</div>
+					<div class="col-sm-6">
+					    <label for="twf">Fnlwgt</label>
+						<input type="number" id="twf" class="form-control" aria-label="City" value="" name="twf"  min="0">
+					</div>
+					<div class="col-sm-6">
+					    <label for="sex">Sex</label>
+						<select id="sex" class="form-control" aria-label="City" name="sex">
+							<option value="0">Male</option>
+							<option value="1">Female</option>
+						</select>
+					</div>
+					<div class="col-sm-6">
+					    <label for="cg">Capital Gain</label>
+						<input type="text" id="cg" class="form-control" aria-label="City" value="" name="cg">
+					</div>
+					<div class="col-sm-6">
+					    <label for="cl">Capital Loss</label>
+						<input type="number" id="cl" class="form-control" aria-label="City" value="" name="cl" min="0">
+					</div>
+                    <div class="col-sm-6">
+					    <label for="hpw">Hours Per Week</label>
+						<input type="number" id="hpw" class="form-control" aria-label="City" value="" name="hpw" min="0">
+					</div>
+
+
+					<!--div class="col-sm-6">
+					    <label for="education_l">Education Label</label>
+						<select id="education_l" class="form-control" aria-label="City" name="education_l">
+							<option value=""></option>
+						</select>
+					</div-->
+
+
+					<div class="offset-md-5 col-md-8">
+						<button type="submit" class="btn btn-info">Predict</button>
+					</div>
+				</div>
+
+				</form>
+			</div>
+		</div>
+	</div>
+<div>
+
+</div>
+<a href="/"><button type="button" class="btn btn1">Back</button></a>
+</body>
+</html>

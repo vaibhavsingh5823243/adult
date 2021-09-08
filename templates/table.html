@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Model Accuracy</title>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+	<style type="text/css">
+
+	body{
+        background: rgba(0,255,0,0.2);
+	    }
+	tr:nth-child(even) {
+	                    background-color: #f2f2f2;
+	                    }
+	th, td {
+			   text-align: left;
+			   padding: 8px;
+			}
+
+	.table{    width: 30vw;
+               height: 65vh;
+               position:fixed;
+               margin-left:800px;
+               margin-top:100px;
+               border: 5px rgb(8, 74, 252) ;
+               transition: 200ms ease-in-out;
+               border-radius: 15px;
+               background-color: rgba(23, 252, 8, 0.5);
+               text-shadow: 4px 2px 8px rgba(0,0,0,0.5);
+        	   box-shadow: 4px 8px 8px rgba(0,0,0,0.5);
+        	   border-collapse: collapse;
+
+              }
+
+    @media only screen and (min-width: 768px) {
+        .main{
+				width: 50vw;
+				height: 65vh;
+				position: fixed;
+				left: 30%;
+				top: 50%;
+				transform: translate(-50%,-50%) scale(1);
+				transition: 200ms ease-in-out;
+				z-index: 10;
+				background: rgba(23, 252, 8, 0.5);
+				text-align: center;
+				border: 5px rgb(8, 74, 252) ;
+				border-radius: 15px;
+				text-shadow: 4px 2px 8px rgba(0,0,0,0.5);
+				box-shadow: 4px 8px 8px rgba(0,0,0,0.5);
+              }
+
+	    .Positive,.Negative{
+							height: 19.5vh;
+							background: rgba(252, 153, 8,0.2);
+							box-shadow: 2px 2px 8px rgba(0,0,0,0.5);
+							padding: 50px;
+	                        }
+               }
+    /* For mobile phones: */
+    @media only screen and (max-width: 768px) {
+        .main{
+				width: 90vw;
+				height: 60vh;
+				position: fixed;
+				left: 50%;
+				top: 50%;
+				transform: translate(-50%,-50%) scale(1);
+				transition: 200ms ease-in-out;
+				z-index: 10;
+				background: rgba(23, 252, 8, 0.5);
+				text-align: center;
+				border: 5px rgb(8, 74, 252) ;
+				border-radius: 15px;
+				text-shadow: 4px 2px 8px rgba(255,255,255,0.5);
+				box-shadow: 4px 8px 8px rgba(0,0,0,0.5);
+            }
+	    .Positive,.Negative{
+							height: 15vh;
+							background: rgba(252, 153, 8,0.2);
+							box-shadow: 2px 2px 8px rgba(0,0,0,0.5);
+							padding: 50px;
+	                        }
+       }
+
+    .row{
+    	/*border: 2px solid blasck;*/
+    	margin: 0px;
+    	border-radius: 15px;
+        }
+
+    .col{
+    	margin: 4px;
+    	border-radius: 15px;
+        }
+
+    .rot{
+    	transform: rotate(-90deg);
+    	padding-top: 50px;
+        }
+
+    .btn{color:black;
+         background-color:green;
+         margin-left:600px;
+         margin-top:530px;
+         position:fixed;
+         }
+
+    .res{
+            margin-left:100px;
+            margin-top:500px;
+            position:fixed;
+            color:blue;
+            }
+    .matrix{text-shadow: 4px 2px 8px black;
+            margin-left:250px;
+            margin-top:40px;
+            position:fixed;
+            color:black;
+            font:city;
+            }
+    .evaluation{text-shadow: 4px 2px 8px black;
+            margin-left:900px;
+            margin-top:40px;
+            position:fixed;
+            color:black;
+            font:city;
+            }
+ 	</style>
+</head>
+<body>
+
+<div class="matrix">
+	<h1>Confusion Matrix</h1>
+</div>
+<div class="evaluation">
+	<h1>Evaluation</h1>
+</div>
+<div class="container main">
+
+	<div class="row">
+		<div class="offset-sm-2 col-sm-10">
+			<div class="row">
+				<div class="col">
+					<h1>Actual Value</h1>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col">
+					<h3>Positive</h3>
+				</div>
+				<div class="col">
+					<h3>Negative</h3>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2 rot">
+			<h3>Positive</h3>
+		</div>
+		<div class="col-sm-10">
+			<div class="row">
+				<div class="col Positive">
+					<h3>{{mat[0][0]}}</h3>
+				</div>
+				<div class="col Negative">
+					<h3>{{mat[0][1]}}</h3>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2 rot">
+			<h3>Negative</h3>
+		</div>
+		<div class="col-sm-10">
+			<div class="row">
+				<div class="col Positive">
+					<h3>{{mat[1][0]}}</h3>
+				</div>
+				<div class="col Negative">
+					<h3>{{mat[1][1]}}</h3>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="table">
+    <table>
+		<tr>
+			<th><h1>Parameter</h1></th>
+			<th><h1>Value %</h1></th>
+		</tr>
+		{% if result %}
+			{% for key in result %}
+				<tr>
+					<td><h3>{{key}}</h3></td>
+					<td><h3>{{result[key]}}</h3></td>
+				</tr>
+			{% endfor %}
+        {% endif %}
+	</table>
+</div>
+<div>
+<a href="/"><button class="btn">Back</button></a>
+</div>
+</body>
+</html>

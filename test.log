@@ -1,0 +1,136 @@
+2021-09-01 19:38:05,475:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 19:38:05,475:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 19:38:05,483:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 19:38:05,483:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 19:38:05,483:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 19:38:05,483:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 19:38:11,627:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 19:38:11,627:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 19:38:11,636:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 19:38:11,636:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 19:38:11,636:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 19:38:11,636:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 19:40:05,847:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 19:40:05,847:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 19:40:05,855:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 19:40:05,855:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 19:40:05,855:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 19:40:05,855:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 19:41:08,116:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 19:41:08,116:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 19:41:08,124:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 19:41:08,124:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 19:41:08,124:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 19:41:08,124:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 19:41:49,225:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 19:41:49,225:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 19:41:49,233:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 19:41:49,233:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 19:41:49,233:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 19:41:49,233:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 19:43:53,935:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 19:43:53,935:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 19:43:53,944:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 19:43:53,944:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 19:43:53,944:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 19:43:53,944:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 19:44:03,502:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 19:44:03,502:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 19:44:03,512:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 19:44:03,512:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 19:44:03,512:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 19:44:03,512:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 19:45:01,249:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 19:45:01,249:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 19:45:01,257:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 19:45:01,257:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 19:45:01,257:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 19:45:01,257:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 19:45:04,908:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 19:45:04,908:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 19:45:04,917:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 19:45:04,917:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 19:45:04,917:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 19:45:04,917:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 19:45:41,371:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 19:45:41,371:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 19:45:41,380:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 19:45:41,380:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 19:45:41,380:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 19:45:41,380:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 19:56:39,127:Adult Census Income Prediction:(levelname)s:invalid literal for int() with base 10: ''
+2021-09-01 19:56:39,127:Adult Census Income Prediction:(levelname)s:invalid literal for int() with base 10: ''
+2021-09-01 19:58:59,561:Adult Census Income Prediction:(levelname)s:invalid literal for int() with base 10: ''
+2021-09-01 19:58:59,561:Adult Census Income Prediction:(levelname)s:invalid literal for int() with base 10: ''
+2021-09-01 23:42:57,326:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:42:57,326:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:42:57,333:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:42:57,333:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:42:57,334:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:42:57,334:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:43:02,158:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:43:02,158:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:43:02,163:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:43:02,163:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:43:02,163:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:43:02,163:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:43:07,394:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:43:07,394:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:43:07,400:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:43:07,400:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:43:07,400:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:43:07,400:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:43:27,768:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:43:27,768:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:43:27,776:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:43:27,776:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:43:27,777:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:43:27,777:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:44:28,025:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:44:28,025:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:44:28,030:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:44:28,030:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:44:28,030:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:44:28,030:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:45:03,993:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:45:03,993:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:45:03,997:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:45:03,997:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:45:03,998:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:45:03,998:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:46:48,219:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:46:48,219:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:46:48,224:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:46:48,224:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:46:48,224:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:46:48,224:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:47:13,570:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:47:13,570:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:47:13,574:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:47:13,574:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:47:13,574:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:47:13,574:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:51:49,628:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:51:49,628:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:51:49,633:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:51:49,633:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:51:49,633:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:51:49,633:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:51:57,082:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:51:57,082:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:51:57,086:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:51:57,086:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:51:57,086:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:51:57,086:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:52:05,089:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:52:05,089:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:52:05,093:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:52:05,093:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:52:05,093:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:52:05,093:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:55:57,700:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:55:57,700:Adult Census Income Prediction:(levelname)s:Expected input with 6 features, got 5 instead
+2021-09-01 23:55:57,704:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:55:57,704:Adult Census Income Prediction:(levelname)s:Expected array-like (array or non-string sequence), got None
+2021-09-01 23:55:57,704:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
+2021-09-01 23:55:57,704:Adult Census Income Prediction:(levelname)s:cannot unpack non-iterable NoneType object
